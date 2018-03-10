@@ -1,0 +1,19 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%
+}
+
+h3{
+	font-family: Helvetica;
+	margin: 1.86%;
+	font-size: 2.0em;
+	text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+.title{
+	border-bottom: 2px solid grey;
+	width: 20%
+
+}
