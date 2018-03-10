@@ -1,5 +1,8 @@
 # DWD_2018
 
+Final work: say byebye to wordpress, building my own website: http://cc5847.itp.io:8200/
+
+
 Here is my week4 homework: http://cc5847.itp.io:3000/
 Homer Simpson's Revenge List
 
